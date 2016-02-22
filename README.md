@@ -1,3 +1,3 @@
 # cs3240-labdemo
 
-# This is different from the GUI edit
+# Edited for Lab 5
